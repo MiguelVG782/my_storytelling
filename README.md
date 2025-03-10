@@ -10,10 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
-
+- :woman: Luz Arcos Sánchez
+- :woman: Andrea Armada Ruiz
+- 👨‍🦽: Ignacio Martínez Torrero
+- 👨‍🦲: Miguel Velassco García
 
 Proyecto (código): 
 URL (link) del proyecto en Github: 
