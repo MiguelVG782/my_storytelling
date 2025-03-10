@@ -15,8 +15,6 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - 👨‍🦽: Ignacio Martínez Torrero
 - 👨‍🦲: Miguel Velasco García
 
-![Descripción de la imagen](https://github.com/MiguelVG782/my_storytelling/commit/964f230882fd96bf339c9691def3d168cb60a4c2)
-
 Proyecto (código): 
 URL (link) del proyecto en Github: 
 
