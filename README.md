@@ -13,7 +13,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Luz Arcos Sánchez
 - :woman: Andrea Armada Ruiz
 - 👨‍🦽: Ignacio Martínez Torrero
-- 👨‍🦲: Miguel Velassco García
+- 👨‍🦲: Miguel Velasco García
 
 Proyecto (código): 
 URL (link) del proyecto en Github: 
